@@ -1,4 +1,4 @@
-module Validator
+module github.com/dubter/Validator
 
 go 1.19
 
